@@ -148,25 +148,7 @@ Flourish	https://flourish.studio	AI-powered data visualizations
 
 
 
+
 🤝 Contributing to TweakForge AI Vault
 
-Thanks for your interest in contributing!
-
-To suggest a new AI tool:
-
-Fork this repo
-
-Add your tool to the appropriate category in README.md or ai-tools.md
-
-Submit a Pull Request
-
-
-Tool Format:
-
-Tool Name – Website – Short 1-line description
-
-Example:
-
-Murf Studio – murf.ai – Studio-grade AI voiceovers
-
-We review all PRs manually. Thanks!
+https://github.com/TweakForge/TweakForge-Vault/blob/main/Contributing.md
