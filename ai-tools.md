@@ -5,6 +5,7 @@ A curated list of useful AI tools across categories.
 Have a cool AI tool to add? Create a pull request or open an issue.
 
 
+
 ⸻
 
 📝 WRITING & PARAPHRASING
@@ -146,3 +147,26 @@ MyHeritage Deep Nostalgia	https://www.myheritage.com/deep-nostalgia	Animate old 
 Flourish	https://flourish.studio	AI-powered data visualizations
 
 
+
+🤝 Contributing to TweakForge AI Vault
+
+Thanks for your interest in contributing!
+
+To suggest a new AI tool:
+
+Fork this repo
+
+Add your tool to the appropriate category in README.md or ai-tools.md
+
+Submit a Pull Request
+
+
+Tool Format:
+
+Tool Name – Website – Short 1-line description
+
+Example:
+
+Murf Studio – murf.ai – Studio-grade AI voiceovers
+
+We review all PRs manually. Thanks!
