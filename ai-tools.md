@@ -5,7 +5,8 @@ A curated list of useful AI tools across categories.
 
 📝 WRITING & PARAPHRASING
 
-Tool	Website	Use
+
+
 QuillBot AI	https://quillbot.com	Paraphrasing, grammar, summarizing
 Writesonic	https://writesonic.com	AI content writing & ads
 Rytr	https://rytr.me	Content generation assistant
@@ -18,7 +19,8 @@ Tome	https://tome.app	AI storytelling/presentations
 
 🎨 IMAGE GENERATION / EDITING
 
-Tool	Website	Use
+
+
 DALL·E	https://openai.com/dall-e	Text-to-image by OpenAI
 Craiyon	https://www.craiyon.com	Free DALL·E mini alternative
 Stable Diffusion Online	https://stablediffusionweb.com	Text-to-image generator
@@ -34,7 +36,8 @@ Huemint	https://huemint.com	AI color palette generator
 
 🎥 VIDEO / AVATAR / EDITING
 
-Tool	Website	Use
+
+
 VEED	https://www.veed.io	Edit, record, livestream
 Pictory	https://pictory.ai	Convert text to video
 Synthesia	https://www.synthesia.io	Create avatar-based AI videos
@@ -47,7 +50,8 @@ Plask	https://plask.ai	AI-powered motion capture tool
 
 🗣️ TEXT TO SPEECH / VOICE
 
-Tool	Website	Use
+
+
 Murf Studio	https://murf.ai	Studio-grade voiceovers
 FakeYou	https://fakeyou.com	Deepfake voices (fun/character-based)
 TTS MP3	https://ttsmp3.com	Free text-to-speech tool
@@ -57,7 +61,8 @@ TTS MP3	https://ttsmp3.com	Free text-to-speech tool
 
 💡 CREATIVITY & EXPERIMENTS
 
-Tool	Website	Use
+
+
 Pollinations	https://pollinations.ai	Generative media & art
 Scribbling Speech	Google Experiment	Turn voice into visuals
 Generative Engine	https://runwayml.com/experiments	Runway’s visual AI lab
@@ -68,7 +73,8 @@ Futurepedia	https://www.futurepedia.io	Largest AI tools directory
 
 🎧 MUSIC
 
-Tool	Website	Use
+
+
 AIVA	https://aiva.ai	AI-composed soundtrack music
 Soundful	https://soundful.com	AI-generated royalty-free music
 
@@ -77,7 +83,8 @@ Soundful	https://soundful.com	AI-generated royalty-free music
 
 🧩 DESIGN / UI / 3D
 
-Tool	Website	Use
+
+
 Uizard	https://uizard.io	Wireframe & UI prototyping
 Framer	https://framer.com	No-code site builder with AI
 DreamFusion	Google DreamFusion	Text to 3D (research project)
@@ -88,7 +95,7 @@ Womp	https://www.womp.com	3D modeling in browser
 
 🧠 AI SEARCH & UTILITIES
 
-Tool	Website	Use
+
 ChatGPT	https://chat.openai.com	AI chat, coding, search, content
 Perplexity AI	https://www.perplexity.ai	AI search with citations
 Free Online Plagiarism Checker	https://smallseotools.com/plagiarism-checker	Plagiarism detection
