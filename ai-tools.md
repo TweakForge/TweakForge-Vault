@@ -152,3 +152,6 @@ Flourish	https://flourish.studio	AI-powered data visualizations
 🤝 Contributing to TweakForge AI Vault
 
 https://github.com/TweakForge/TweakForge-Vault/blob/main/Contributing.md
+
+Follow us on Instagram Instagram.com/TweakForge
+
