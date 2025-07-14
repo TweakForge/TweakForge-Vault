@@ -1,6 +1,10 @@
 # TweakForge-Vault
 A curated list of useful AI tools across categories.
 
+## 🤝 Contribute
+Have a cool AI tool to add? Create a pull request or open an issue.
+
+
 ⸻
 
 📝 WRITING & PARAPHRASING
